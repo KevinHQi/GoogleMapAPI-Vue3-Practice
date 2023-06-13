@@ -6,6 +6,13 @@
 This is a front-end project that took half a week to complete. It utilizes the Vue 3 framework with Vuetify as the UI support and interacts with the Google Maps API to implement various functionalities. <br>
 Two sets of layout designs were created for the desktop and mobile interfaces.<br>
 
+The implemented features include:<br>
+* Obtaining the user's current location from the browser.<br>
+* Searching for a location by name.<br>
+* Displaying images, address, and local time of the searched location, and marking it on the map.<br>
+* Recording search history in a list format and displaying it in a paginated manner.<br>
+* Allowing users to delete any selected historical locations and removing their records and markers from the map.<br>
+
 Here is a deployed page you can check: <br>
 [To My Deployment](https://haotianqi-google-map-vue3-practice.pages.dev/) (Notice: You will need a Google Map API key to access the page.)<br>
 
