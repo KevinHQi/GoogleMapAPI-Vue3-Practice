@@ -22,7 +22,7 @@ Here is a deployed page you can check: <br>
 1. Make sure you have Node.js and npm installed. <br>
 2. Install yarn by typing command in terminal (consider run all commands as administrator） :<br>
    ```npm install --global yarn```<br>
- 3. Cd into folder "Accuenergy-PreInterview".<br>
+ 3. Cd into folder "GoogleMapAPI-Vue3".<br>
  4. Enter command:<br>
   ```yarn install```<br>
   Then:<br>
